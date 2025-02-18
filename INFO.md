@@ -44,7 +44,7 @@ $ npx shadcn@2.1.0 add
 ES7+ React/Redux/React-Native snippets
 rfce
 
-Current: 8:17
+$ npm run dev
 
-
+Current: 9:27
 
