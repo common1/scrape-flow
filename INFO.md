@@ -46,5 +46,8 @@ rfce
 
 $ npm run dev
 
-Current: 9:27
+### 01 Project setup - Part 3
+
+Sidebar with 4 button
+Current: 19:18
 
