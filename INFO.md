@@ -43,8 +43,8 @@ $ npx shadcn@2.1.0 add
 
 ```
 
-ES7+ React/Redux/React-Native snippets
-rfce
+ES7+ React/Redux/React-Native snippets<br>
+rfce<br>
 
 $ npm run dev
 
@@ -59,10 +59,12 @@ Current: 19:18
 npm i next-themes
 npm audit fix --force
 ```
-TheModeToggle button
+
+TheModeToggle.tsx
 Current: 24:29
 
+### 01 Project setup - Part 5
 
-
-
+not-found.tsx
+Current: 27:52
 
