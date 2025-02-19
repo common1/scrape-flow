@@ -68,3 +68,8 @@ Current: 24:29
 not-found.tsx
 Current: 27:52
 
+### 01 Project setup - Part 6
+
+mobile sidebar
+Current: 31:13
+
