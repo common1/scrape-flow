@@ -6,6 +6,8 @@
 
 [https://ui.shadcn.com/]
 
+[https://ui.shadcn.com/docs/dark-mode/next]
+
 ## 01 Project setup
 
 ```
@@ -50,4 +52,17 @@ $ npm run dev
 
 Sidebar with 4 button
 Current: 19:18
+
+### 01 Project setup - Part 4
+
+```
+npm i next-themes
+npm audit fix --force
+```
+TheModeToggle button
+Current: 24:29
+
+
+
+
 
