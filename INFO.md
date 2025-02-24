@@ -41,12 +41,11 @@ You may now add components.
 
 $ npx shadcn@2.1.0 add
 
-```
-
 ES7+ React/Redux/React-Native snippets<br>
 rfce<br>
 
 $ npm run dev
+```
 
 ### 01 Project setup - Part 3
 
@@ -73,3 +72,18 @@ Current: 27:52
 mobile sidebar
 Current: 31:13
 
+## 02 Auth setup
+
+[https://clerk.com/docs/quickstarts/nextjs]
+
+```
+npm install @clerk/nextjs@5.3.2
+```
+
+[https://dashboard.clerk.com]
+
+### 02 Auth setup - Part 1
+
+```
+sign-in and sign-up pages created
+```
