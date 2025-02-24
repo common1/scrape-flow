@@ -87,3 +87,8 @@ npm install @clerk/nextjs@5.3.2
 ```
 sign-in and sign-up pages created
 ```
+
+### 02 Auth setup - Part 2
+
+Finalizing clerc setup
+
