@@ -90,5 +90,21 @@ sign-in and sign-up pages created
 
 ### 02 Auth setup - Part 2
 
+```
 Finalizing clerc setup
+```
 
+## 03 Database setup
+
+```
+npm install --save-dev prisma
+npm install @prisma/client
+npx prisma init --datasource-provider sqlite
+
+Workflow model
+npx prisma migrate dev
+Name: init db
+
+npx prisma studio
+http://localhost:5555/
+```
