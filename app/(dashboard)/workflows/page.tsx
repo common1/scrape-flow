@@ -3,6 +3,7 @@ import { Skeleton } from '@/components/ui/skeleton'
 import React, { Suspense } from 'react';
 import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
 import { AlertCircle } from 'lucide-react';
+import { waitFor } from '@/lib/helper/waitFor';
 
 function page() {
     return (
@@ -23,16 +24,22 @@ function page() {
 }
 
 function UserWorkflowsSkeleton() {
-    return <div className="space-y-2">
-        {[1, 2, 3, 4].map((i) => (
-            <Skeleton key={i} className="h-32 w-full" />
-        ))}
-    </div>;
+    return (
+        <div className="space-y-2">
+            {[1, 2, 3, 4].map((i) => (
+                <Skeleton key={i} className="h-32 w-full" />
+            ))}
+        </div>
+    );
 }
+
+// async function UserWorkflows() {
+//     await waitFor(3000);
+//     return <div></div>
+// }
 
 async function UserWorkflows() {
     const workflows = await getWorkflowsForUser();
-
     if (!workflows) {
         return (
             <Alert variant={"destructive"}>
@@ -45,9 +52,7 @@ async function UserWorkflows() {
         );
     }
 
-    return <div>
-
-    </div>;
+    return <div></div>
 }
 
 export default page
