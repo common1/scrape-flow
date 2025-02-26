@@ -9,6 +9,7 @@
 [https://ui.shadcn.com/docs/dark-mode/next]
 
 ## 01 Project setup
+[https://www.youtube.com/watch?v=RkwbGuL-dzo&t=264s]
 
 ```
 $ npx create-next-app@14.2.5
@@ -95,6 +96,7 @@ Finalizing clerc setup
 ```
 
 ## 03 Database setup
+[https://www.youtube.com/watch?v=RkwbGuL-dzo&t=2248s]
 
 ```
 npm install --save-dev prisma
@@ -108,3 +110,8 @@ Name: init db
 npx prisma studio
 http://localhost:5555/
 ```
+## 04 Workflows page
+[https://www.youtube.com/watch?v=RkwbGuL-dzo&t=2714s]
+
+Current: 52:38
+
