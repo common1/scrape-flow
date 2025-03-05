@@ -113,5 +113,12 @@ http://localhost:5555/
 ## 04 Workflows page
 [https://www.youtube.com/watch?v=RkwbGuL-dzo&t=2714s]
 
-Current: 53:56
+```
+$ npm i @tanstack/react-query
+$ npm i --save-dev @tanstack/react-query-devtools
+```
+
+## 04 Workflows page - Part 3
+
+Current: 1:04:24
 
