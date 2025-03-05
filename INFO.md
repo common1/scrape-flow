@@ -8,6 +8,8 @@
 
 [https://ui.shadcn.com/docs/dark-mode/next]
 
+[https://ui.shadcn.com/docs/components/form]
+
 ## 01 Project setup
 [https://www.youtube.com/watch?v=RkwbGuL-dzo&t=264s]
 
@@ -121,4 +123,8 @@ $ npm i --save-dev @tanstack/react-query-devtools
 ## 04 Workflows page - Part 3
 
 Current: 1:04:24
+
+## 04 Workflows page - Part 4
+
+Current: 1:07:06
 
