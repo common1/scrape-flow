@@ -136,3 +136,12 @@ CreateWorkflowDialog created
 
 Current: 1:09:40
 
+## 04 Workflows page - Part 6
+
+```
+CreateWorkflow server action
+```
+
+Current: 1:14:20
+
+
