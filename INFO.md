@@ -126,5 +126,13 @@ Current: 1:04:24
 
 ## 04 Workflows page - Part 4
 
-Current: 1:07:06
+...
+
+## 04 Workflows page - Part 5
+
+```
+CreateWorkflowDialog created
+```
+
+Current: 1:09:40
 
