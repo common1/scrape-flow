@@ -144,4 +144,9 @@ CreateWorkflow server action
 
 Current: 1:14:20
 
+## 04 Workflows page - Part 7
+
+CreateWorkflowDialog, workflow create
+
+Current: 1:19:35
 
