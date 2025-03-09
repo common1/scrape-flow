@@ -150,3 +150,10 @@ CreateWorkflowDialog, workflow create
 
 Current: 1:19:35
 
+## 04 Workflows page - Part 8
+
+
+WorkflowCard.tsx and TooltipWrapper.tsx
+
+Current: 1:30:35
+
