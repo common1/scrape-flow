@@ -10,6 +10,7 @@ import {
   MoreVerticalIcon,
   PlayIcon,
   ShuffleIcon,
+  TrashIcon,
 } from "lucide-react";
 import Link from "next/link";
 import {
@@ -88,12 +89,18 @@ function WorkflowActions() {
       <DropdownMenuTrigger asChild>
         <Button variant={"outline"} size={"sm"}>
           <TooltipWrapper content={"More actions"}>
-            <MoreVerticalIcon size={18} />
+            <div className="flex items-center justify-center w-full h-full">
+              <MoreVerticalIcon size={18} />
+            </div>
           </TooltipWrapper>
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end">
         <DropdownMenuLabel>Actions</DropdownMenuLabel>
+        <DropdownMenuSeparator />
+        <DropdownMenuItem className="text-destructive flex items-center gap-2">
+          <TrashIcon size={16} />
+        </DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>
   );
