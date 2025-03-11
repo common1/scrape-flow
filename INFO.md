@@ -165,3 +165,9 @@ Current: 1:31:29
 
 Current: 1:34:53
 
+## 04 Workflows page - Part 11
+
+deleteWorkflow.ts and DeleteWorkflowDialog.tsx
+
+Current: 1:40:25
+
