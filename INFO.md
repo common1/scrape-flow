@@ -177,7 +177,13 @@ Current: 1:41:05
 
 ## 05 Workflow Editor - Part 1
 
+```
 $ npm install @xyflow/react
+```
 
 Current: 1:48:54
+
+## 05 Workflow Editor - Part 2
+
+Current: 2:01:08
 
