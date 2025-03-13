@@ -7,4 +7,5 @@ export const LaunchBrowserTask = {
     icon: (props: LucideProps) =>  (
         <GlobeIcon className="stroke-pink-400" {...props}/>
     ),
+    isEntryPoint: true,
 };

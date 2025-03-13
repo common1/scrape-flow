@@ -187,3 +187,7 @@ Current: 1:48:54
 
 Current: 2:01:08
 
+## 06 Node Component - Part 1
+
+Current: 2:09:06
+
