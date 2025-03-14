@@ -11,6 +11,7 @@
 [https://ui.shadcn.com/docs/components/form]
 
 ## 01 Project setup
+
 [https://www.youtube.com/watch?v=RkwbGuL-dzo&t=264s]
 
 ```
@@ -98,6 +99,7 @@ Finalizing clerc setup
 ```
 
 ## 03 Database setup
+
 [https://www.youtube.com/watch?v=RkwbGuL-dzo&t=2248s]
 
 ```
@@ -112,7 +114,9 @@ Name: init db
 npx prisma studio
 http://localhost:5555/
 ```
+
 ## 04 Workflows page
+
 [https://www.youtube.com/watch?v=RkwbGuL-dzo&t=2714s]
 
 ```
@@ -152,7 +156,6 @@ Current: 1:19:35
 
 ## 04 Workflows page - Part 8
 
-
 WorkflowCard.tsx and TooltipWrapper.tsx
 
 Current: 1:30:35
@@ -191,3 +194,8 @@ Current: 2:01:08
 
 Current: 2:09:06
 
+## 06 Node Component - Part 2
+
+Center NodeCard onDoubleClick 
+
+Current: 2:12:26
