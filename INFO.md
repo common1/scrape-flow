@@ -199,3 +199,8 @@ Current: 2:09:06
 Center NodeCard onDoubleClick 
 
 Current: 2:12:26
+
+## 06 Node Component - Part 3
+
+Current: 2:29:20
+
